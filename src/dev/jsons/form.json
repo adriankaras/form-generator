@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fr-email",
+    "type": "email",
+    "name": "email",
+    "label": "Adres e-mail",
+    "required": true,
+    "autofocus": true
+  },
+  {
+    "id": "fr-password",
+    "type": "password",
+    "name": "password",
+    "label": "Hasło",
+    "required": true
+  },
+  {
+    "id": "fr-password_confirmation",
+    "type": "password",
+    "name": "password_confirmation",
+    "label": "Powtórz hasło",
+    "required": true
+  },
+  {
+    "type": "reset",
+    "label": "Wyczyść"
+  },
+  {
+    "type": "submit",
+    "label": "Zarejestruj"
+  },
+  {
+    "type": "select",
+    "label": "select select"
+  }
+]

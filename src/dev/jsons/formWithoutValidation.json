@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fl-email",
+    "type": "email",
+    "name": "email",
+    "label": "Adres e-mail",
+    "autofocus": true
+  },
+  {
+    "id": "fl-password",
+    "type": "password",
+    "name": "password",
+    "label": "Hasło"
+  },
+  {
+    "type": "submit",
+    "label": "Zaloguj"
+  }
+]
